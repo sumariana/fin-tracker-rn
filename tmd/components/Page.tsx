@@ -1,5 +1,5 @@
 /**
- * Created by Sumariana on 01/07/2022
+ * Created by - on 01/07/2022
  * Copyright (c) 2022 - Made with love
  */
 import React from 'react';
