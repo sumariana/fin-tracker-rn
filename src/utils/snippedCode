@@ -1,0 +1,28 @@
+LOG  --Request--
+Method: POST 
+URL: https://jastip.namdeska.com/api/chats/room
+Header: {
+  "common": {
+    "Accept": "application/json, text/plain, */*"
+  },
+  "delete": {},
+  "get": {},
+  "head": {},
+  "post": {
+    "Content-Type": "application/x-www-form-urlencoded"
+  },
+  "put": {
+    "Content-Type": "application/x-www-form-urlencoded"
+  },
+  "patch": {
+    "Content-Type": "application/x-www-form-urlencoded"
+  },
+  "Accept": "application/json",
+  "Content-Type": "application/json",
+  "X-App-Locale": "en",
+  "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdF9uYW1lIjoidXNlcjEiLCJuYW1lIjoidXNlcjEiLCJ1c2VyX2lkIjo2LCJzdG9yZV9pZCI6IiIsImV4cCI6MTcxNTIxOTM2MH0.9WGscpohF2PSJbD7Al2c7iMofezYPAOtqMe_mUdMBMY"
+}
+Params: undefined 
+Data: {
+  "target_store_id": "4ea7a68b-cebb-48cc-9353-2b7b210b4fc9"
+}

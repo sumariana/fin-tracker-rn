@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609622675227",
+    "project_id": "sylvan-triumph-422112-r0",
+    "storage_bucket": "sylvan-triumph-422112-r0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609622675227:android:b610727b13f29897b4cdbe",
+        "android_client_info": {
+          "package_name": "com.fintracker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzi-2wI1bK8hehZmrIwNBJR4q25fKGp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
